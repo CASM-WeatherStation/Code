@@ -1,2 +1,2 @@
-# Weather-Station-Code
+# Code
 The code for the Weather Station
